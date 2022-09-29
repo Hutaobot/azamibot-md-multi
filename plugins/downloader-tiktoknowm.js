@@ -25,6 +25,7 @@ handler.help = ['tiktoknowm'].map(v => v + ' <url>')
 handler.tags = ['downloader', 'premium']
 handler.command = /^(tt|tiktok)nowm(dl)?(download(er)?)?$/i
 
+handler.limit = true
 handler.premium = false
 
 export default handler
