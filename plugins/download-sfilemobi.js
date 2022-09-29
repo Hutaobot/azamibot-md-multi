@@ -44,7 +44,7 @@ handler.menudownload = ['sfilemobi <query>','sfilemobi <url>']
 handler.tagsdownload = ['search']
 handler.command = /^(sfile(mobi)?)$/i
 
-handler.premium = true
+handler.premium = false
 handler.limit = true
 
 export default handler
