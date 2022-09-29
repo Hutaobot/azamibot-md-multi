@@ -43,6 +43,7 @@ handler.menufun = ['asahotak (exp+)']
 handler.tagsfun = ['game']
 handler.command = /^(asahotak)$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
