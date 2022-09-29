@@ -41,6 +41,7 @@ handler.menufun = ['tebakprovinsi (exp+)']
 handler.tagsfun = ['game']
 handler.command = /^(tebakprovinsi)$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
