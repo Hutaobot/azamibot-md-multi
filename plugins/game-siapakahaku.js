@@ -43,6 +43,7 @@ handler.menufun = ['siapakahaku (money+)']
 handler.tagsfun = ['game']
 handler.command = /^(siapa(kah)?aku)$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
