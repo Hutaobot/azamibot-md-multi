@@ -79,6 +79,7 @@ handler.tagsfun = ['rpg']
 handler.command = /^(mancing|fishing)$/i
 
 handler.cooldown = cooldown
-handler.premium = true
+handler.premium = false
+handler.limit = true
 
 export default handler
