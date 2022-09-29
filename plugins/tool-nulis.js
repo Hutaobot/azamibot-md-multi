@@ -64,6 +64,7 @@ let handler = async (m, { conn, text, args }) => {
 handler.help = ['n'].map(v => v + 'ulis <teks>')
 handler.tags = ['tools']
 handler.command = /^(nulis)$/i
+handler.limit = true
 
 export default handler
 
