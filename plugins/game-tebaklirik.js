@@ -43,6 +43,7 @@ handler.menufun = ['tebaklirik (exp+)']
 handler.tagsfun = ['game']
 handler.command = /^(tebaklirik)$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
