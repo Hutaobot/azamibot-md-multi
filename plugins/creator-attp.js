@@ -26,6 +26,7 @@ handler.help = ['ttp','ttp2 -> ttp6','attp','attp2','attp3']
 handler.tags = ['creator']
 handler.command = /^((ttp(2|3|4|5|6)?)|(attp(2|3)?))$/i
 
+handler.register = true
 handler.limit = true
 
 export default handler
