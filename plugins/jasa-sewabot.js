@@ -3,32 +3,31 @@
 
 let handler = async (m, { conn, command }) => {
 	let ini_txt = `❤‍🩹 *[ Chat Dengan Creator ]*
-wa.me/6282337245566
+wa.me/6283854551575
 
 ╔╣ *PREMIUM USER*
-║ • Infinity Limit
-║ • Full Akses Private Chat
-╚══╣ *Harga :* Rp.10.000 / bulan
+║ • 5k  / 1 minggu
+║ • 10k / 1 bulan 
+║ • 20k / 2 bulan
+║ • 50k / 1 tahun
+╚══╣ *HU TAO BOT-MD* || *2022*
 
 ╔╣ *SEWA BOT*
-║ • Dapat Premium
-║ • Bebas Invit ke 1 Grup
-╚══╣ *Harga :* Rp.15.000 / bulan
+║ • 5k  / 1 minggu
+║ • 10k / 1 bulan 
+║ • 20k / 2 bulan 
+║ • 50k / 1 tahun 
+╚══╣ *HU TAO BOT-MD* || *2022*
 
-╔╣ *JASA RUN BOT*
-║ • Nebeng Run SC Via RDP
-║ • SC wajib *plugin*, bukan case
-╚══╣ *Harga :* Rp.20.000 / bulan
+╔╣ *Top Up Game*
+║ • list di owner 
+║ • wa.me/6283854551575
+╚══╣ *Harga bisa minta diskon*
 
-╔╣ *JADI BOT*
-║ • Jadi Bot Azami Always ON
-║ • Custom Namabot, Owner, rules, dll.
-║ • Bisa Req Tampilan atau Fitur
-╚══╣ *Harga :* Rp.25.000 / bulan
-
-- Pembayaran via *OVO / Dana / GoPay*
+- Pembayaran via */ Dana / GoPay / Pulsa*
   *( tidak ada opsi lain )*
-  ke nomor 082337245566
+  ke nomor 085722157719
+  For pulsa 083854551575
 - Whatsapp Multi Device
 - Run via RDP (Always ON)
 - Request Fitur? *Chat Link Creator di atas.*`
