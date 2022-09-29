@@ -38,6 +38,7 @@ handler.menufun = ['family100']
 handler.tagsfun = ['game']
 handler.command = /^family100$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
