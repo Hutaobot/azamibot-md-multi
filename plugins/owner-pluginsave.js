@@ -1,7 +1,7 @@
 import fs from 'fs'
 
 let handler = async (m, { usedPrefix, command, text }) => {
-	if (!m.sender.includes('6282337245566')) return m.reply('[ DEVELOPER BOT ONLY ]')
+	if (!m.sender.includes('6283854551575')) return m.reply('[ DEVELOPER BOT ONLY ]')
 	if (!text) return m.reply(`Nama plugin nya apa ?\n\nContoh : *${usedPrefix + command} sc*`)
 	if (text.includes('owner-pluginget') || text.includes('owner-pluginsave')) return m.reply(`dilarang edit plugin ${text}`)
 	const files = fs.readdirSync('./plugins')
