@@ -43,6 +43,7 @@ handler.menufun = ['caklontong (exp+)']
 handler.tagsfun = ['game']
 handler.command = /^(caklontong)$/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 export default handler
