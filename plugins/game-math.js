@@ -45,7 +45,8 @@ handler.menufun = ['math <mode>']
 handler.tagsfun = ['game']
 handler.command = /^math/i
 
-handler.premium = true
+handler.limit = true
+handler.premium = false
 
 let modes = {
     noob: [-3, 3, -3, 3, '+-', 15000, 10],
