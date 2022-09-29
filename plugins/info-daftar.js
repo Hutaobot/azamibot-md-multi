@@ -60,7 +60,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
 ┗━━━━━━━━━━㉿ 
 ⫹⫺ 
 ⫹⫺`, 
-   footer: `┗ © FangzXD*`, 
+   footer: `┗ © HU TAO BOT-MD*`, 
    title: "", 
    buttonText: "CLICK HERE", 
    sections 
@@ -87,7 +87,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
  ╭━━━━「 *BERHASIL* 」
  ❖ Terima kasih ${name} Sudah mendaftar
 Di Database kami
- ❖ © FANGZ BOT || ALL RESERVED
+ ❖ © HU TAO BOT-MD || ALL RESERVED
 
  ╭━━━━「 *DATA* 」
  ┊⫹ *Sucsess ☑️* 】Status
@@ -119,7 +119,7 @@ Nomor akan di banned!.
  'previewType':'pdf', 
  'title':global.bottime, 
  'body':global.titlebot, 
- 'thumbnail':await(await fetch('https://telegra.ph/file/67ea0570777ef4f08009f.jpg')).buffer(),
+ 'thumbnail':await(await fetch('https://telegra.ph/file/72d84657812b729e56df4.jpg')).buffer(),
  'sourceUrl':sig}}, 
  'caption':cap, 
  'footer':botdate, 
@@ -131,7 +131,7 @@ Nomor akan di banned!.
      await conn.sendMessage(m.chat,buttonMessage, { quoted:m}) 
  } 
  handler.help = ['daftar', 'register'].map(v => v + ' <nama>.<umur>') 
- handler.tags = ['xp'] 
+ handler.tags = ['info'] 
   
  handler.command = /^(daftar|verify|reg(ister)?)$/i 
   
