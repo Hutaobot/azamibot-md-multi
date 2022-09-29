@@ -43,5 +43,6 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 handler.help = ['stiker', 'stiker30fps', 'stiker45fps', 'stiker60fps']
 handler.tags = ['creator']
 handler.command = /^(s(tic?ker)?(gif)?(30|45|60|halus|smoo?th)?(fps)?)$/i
+handler.limit = true
 
 export default handler
