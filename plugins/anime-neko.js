@@ -14,5 +14,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 handler.menuanime = ['neko']
 handler.tagsanime = ['randompic']
 handler.command = /^(neko)$/i
+handler.register = true
+handler.limit = true
 
 export default handler
